@@ -2,7 +2,7 @@
 ## EBOOK SOBRE IA GENERATIVA.
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-📕[Clique aqui para ler](https://github.com/user-attachments/files/15845168/Ebook.sobre.IA.Generativa.pdf)
+📕[Clique aqui para ler](Ebook.sobre.IA.Generativa.pdf)
 
 
 
