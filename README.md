@@ -1,6 +1,13 @@
-# EBOOK CRIADO COM INTELIGÊNCIA ARTIFICIAL.
-## EBOOK SOBRE IA GENERATIVA.
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+
+ ![OIG1](https://github.com/Ronaldoestudante/EBOOK-SOBRE-IA/assets/109828450/cba250e8-59b6-4a3b-a90a-46059e15bd92)
+ ![OIG2](https://github.com/Ronaldoestudante/EBOOK-SOBRE-IA/assets/109828450/0d7e59a9-5798-49da-af29-a6cc2b602458)
+ ![OIG2](https://github.com/Ronaldoestudante/EBOOK-SOBRE-IA/assets/109828450/72baeb30-5e5b-4660-a86d-f7cdf3ed68ca)
+                                            
+ # EBOOK CRIADO COM INTELIGÊNCIA ARTIFICIAL.
+                                                                                                                                                                                                                   
+ ## EBOOK SOBRE IA GENERATIVA.
+                                                                                                                                                                                                              
+ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
 📕[Clique aqui para ler](Ebook.sobre.IA.Generativa.pdf)
 
