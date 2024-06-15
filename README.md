@@ -15,5 +15,11 @@ ChatGPT：
 Ação	prompt
 título	Crie um título de um ebook sobre o tema de ia generativa, o ebook é do nicho de tecnologia e o subnicho é de programação, o título deve ser épico e curto, e tenha uma temática de eu o robô o filme no título, me liste 5 variações de títulos.
 Conteúdo	faça um texto para ebook , com foco ia generativa, listando as principais exemplos de uso {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico.
+```
+
+### Insigths
+- [Vídeo (EBOOK DIGITAL)](https://github.com/user-attachments/files/15845147/Ebook.sobre.IA.Generativa.pdf)
+)
+## Links Interessantes
 
 
